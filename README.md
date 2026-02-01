@@ -1,11 +1,17 @@
 # Party Girl Events
 
-Research and planning resources for Party Girl Events business development.
+Research, assets, and planning resources for Party Girl Events website redesign.
 
 ## Contents
 
 ### `/research`
 - **ADJACENT_INDUSTRIES_RESEARCH.md** - Comprehensive analysis of modern approaches from event planning, hospitality, wedding tech, bachelorette apps, nightlife booking, and group travel industries.
+
+### `/scraped-site`
+Original website content and assets from partygirl.events:
+- **`images/`** - 50 images (logos, badges, portfolio photos) ~16MB
+- **`content/`** - Markdown versions of all pages and blog posts
+- **`SCRAPED_CONTENT_INDEX.md`** - Complete inventory of scraped assets
 
 ## Key Opportunities Identified
 
